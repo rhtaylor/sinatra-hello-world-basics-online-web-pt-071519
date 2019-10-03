@@ -7,5 +7,5 @@ get "/" do
   The beginning of the end of life being eh
   and adding art to it
   YOO
-
+end
 end
